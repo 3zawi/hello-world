@@ -1,3 +1,5 @@
-public main(){
-    test();
+public
+    tt();
+    if(); 
+
 }
